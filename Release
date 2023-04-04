@@ -5,9 +5,4 @@ Version: 1.0
 Codename: staturnzworld
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Staturnz' Repo
-MD5Sum:
-  7668dc959b4b9bce519067bfda5f9439 494960 Packages
-SHA256: 
-  55350fbfa8d09cfd427e49ee530f6bcd7e48f15d0d277446c59fe94ec6988bd3 75688 Packages.xz
-
+Description: Staturnz Repo
