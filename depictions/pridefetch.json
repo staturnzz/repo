@@ -64,7 +64,23 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "- Fixed issues with Fugu detection<br>- Fixed issues with command not found error",
+                    "markdown": "- Fixed issues with Fugu detection",
+                    
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "- Fixed issues with command not found error",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "- Fixed issues dpkg package scanning.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "- Fixed jailbreak type text in settings",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
