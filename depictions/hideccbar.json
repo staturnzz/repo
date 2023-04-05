@@ -58,13 +58,24 @@
             "tabname": "Changes",
             "views": [
                 {
+                    "title": "Version 1.0.1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- Fixed issues with Preference Bundle.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "Version 1.0.0",
                     "useBoldText": true,
                     "useBottomMargin": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Initial release of HideCCBar.",
+                    "markdown": "- Initial release of HideCCBar.",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
