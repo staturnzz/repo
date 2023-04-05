@@ -64,8 +64,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "- Fixed issues with Fugu detection",
-                    "markdown": "- Fixed issues with command not found error",
+                    "markdown": "- Fixed issues with Fugu detection<br>- Fixed issues with command not found error",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
