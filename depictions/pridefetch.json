@@ -56,7 +56,19 @@
         {
             "class": "DepictionStackView",
             "tabname": "Changes",
-            "views": [
+            "views": [ 
+                {
+                    "title": "Version 1.0.1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- Fixed issues with Fugu detection",
+                    "markdown": "- Fixed issues with command not found error",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "Version 1.0.0",
                     "useBoldText": true,
