@@ -1,0 +1,90 @@
+{
+    "minVersion": "0.4",  
+    "class": "DepictionTabView",
+    "headerImage": "https://repo.staturnz.com/headers/hideccbarheader.png",
+    "tintColor": "#519E8A",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [{
+                    "title": "Hide the CC bar on your lockscreen.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "*Supports iOS 14 to 16.*\n\nHideCCBar hides the CC bar also know as a 'grabber' or 'hint' from being shown on your lockscreen, giving it a cleaner look.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Latest Version",
+                    "class": "DepictionHeaderView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 12,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Staturnz",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://repo.staturnz.com/CydiaIcon.png",
+                    "width": 38,
+                    "height": 38,
+                    "alignment": 1,
+                    "cornerRadius": 0,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changes",
+            "views": [
+                {
+                    "title": "Version 1.0.0",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Initial release of HideCCBar.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        }
+    ]
+}
