@@ -70,7 +70,7 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "- Fixed issues with command not found error",
+                    "markdown": "- Fixed command not found error",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
