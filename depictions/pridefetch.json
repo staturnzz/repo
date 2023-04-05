@@ -1,20 +1,20 @@
 {
     "minVersion": "0.4",  
     "class": "DepictionTabView",
-    "headerImage": "https://repo.staturnz.com/headers/hideccbarheader.png",
-    "tintColor": "#519E8A",
+    "headerImage": "https://repo.staturnz.com/headers/pridefetchheader.png",
+    "tintColor": "#729DDA",
     "tabs": [
         {
             "class": "DepictionStackView",
             "tabname": "Details",
             "views": [{
-                    "title": "Hide the CC bar on your lockscreen.",
+                    "title": "Pridefetch but better!",
                     "useBoldText": true,
                     "useBottomMargin": false,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "*Supports iOS 14 to 16.*\n\nHideCCBar hides the CC bar also know as a 'grabber' or 'hint' from being shown on your lockscreen and notification center, giving it a cleaner look.",
+                    "markdown": "*Supports iOS 11 to 16.*\n\nA fetch script based on the original pridefetch, but now in swift and with more options then ever before.",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -64,7 +64,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Initial release of HideCCBar.",
+                    "markdown": "Initial release of Pridefetch.",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
